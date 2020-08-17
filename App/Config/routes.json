@@ -3,5 +3,8 @@
 	"dashboard/:task": "\\Controller\\DashboardController",
 	"news": "\\Controller\\NewsController",
 	"news/:task": "\\Controller\\NewsController",
-	"news/:task/:id": "\\Controller\\NewsController"
+	"news/:task/:id": "\\Controller\\NewsController",
+	"envios": "\\Controller\\EnviosController",
+	"envios/:task": "\\Controller\\EnviosController",
+	"envios/:task/:id": "\\Controller\\EnviosController"
 }
