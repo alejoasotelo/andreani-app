@@ -17,3 +17,5 @@ www/assets/img
 # COMPOSER Files  #
 vendor/*
 composer.phar
+*.code-workspace
+.vscode/
